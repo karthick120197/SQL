@@ -28,7 +28,7 @@ insert into Travels(Travels_id, Travels_name) values('3001', 'RRT'),
  ('1003', '400'),
  ('1004', '500');
  
- insert into Trip(Trip_id, Bus_no, From, To, Capacity, Seat_available) values('5001', '1001', 'chennai', 'trichy', '35', '12'),
+ insert into Trip(Trip_id, Bus_no, From_area, To_area, Capacity, Seat_available) values('5001', '1001', 'chennai', 'trichy', '35', '12'),
  ('5002', '1002', 'chennai', 'madurai', '35', '05'),
  ('5003', '1003', 'chennai', 'theni', '35', '03'),
  ('5004', '1004', 'chennai', 'madurai', '35', '00');
