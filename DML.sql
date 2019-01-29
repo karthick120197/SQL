@@ -37,3 +37,7 @@ insert into Travels(Travels_id, Travels_name) values('3001', 'RRT'),
  ('6002', '5002', 'AAA', 'card'),
  ('6003', '5003', 'XXX', 'card'),
  ('6004', '5004', 'YYY', 'card');
+ 
+ 
+ 
+ 
